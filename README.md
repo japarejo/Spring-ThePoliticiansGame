@@ -1,4 +1,4 @@
-# thepoliticsgame
+# thepoliticiansgame
 Game of recognizing images of spanish politicians from ascii art images.
 For instance:
 
