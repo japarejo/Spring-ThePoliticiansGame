@@ -54,5 +54,8 @@ M&&MMM&#MMM#MM#M###MM#MMMMMMMMMMMMM#&&&&#&&&&&&&&&&&&&k#MM&&#Mk&&&&&
 M&&&MM&##MMMM#MMMMMMMMMM##MMMMMMMM#M&&&#M&&&&&&m#&&&&M##M&&#M&&&&&&&
 ```
 Para instalar la librería faltante:
+
   En linux con maven instalado globalmente: mvn install:install-file -Dfile=/home/alumno/Descargas/asciimg-1.00-SNAPSHOT.jar -DgroupId=io.kohner -DartifactId=asciimg -Dversion=1.00-SNAPSHOT -Dpackaging=jar
-  En  windows usando el maven embebido: .\mvnw.cmd install:install-file "-Dfile=C:/Users/japarejo/Downloads/asciimg-1.00-SNAPSHOT.jar" -D"groupId=io.kohner" -DartifactId=asciimg -D"version=1.00-SNAPSHOT" -Dpackaging=jar
+  
+
+En  windows usando el maven embebido: .\mvnw.cmd install:install-file "-Dfile=C:/Users/japarejo/Downloads/asciimg-1.00-SNAPSHOT.jar" -D"groupId=io.kohner" -DartifactId=asciimg -D"version=1.00-SNAPSHOT" -Dpackaging=jar

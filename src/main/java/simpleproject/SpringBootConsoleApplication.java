@@ -8,10 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-@EnableAutoConfiguration
 public class SpringBootConsoleApplication implements CommandLineRunner {
 
-	
+
 	Game game;
 	
     public static void main(String[] args) throws Exception {
